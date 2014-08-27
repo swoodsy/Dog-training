@@ -12,6 +12,7 @@ public class App {
 		Class2.setLocation("Hastings");
 		Class2.getCourseDetails();
 		// this is a test
+		// ooh another test
 	}
 
 }
